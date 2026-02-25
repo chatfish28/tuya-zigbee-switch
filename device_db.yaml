@@ -4279,7 +4279,7 @@ BOARD__TUYA_TS0016_6G_TYZS3:
   override_z2m_device: TS0016
   tuya_module: TYZS3
   mcu_family: Silabs
-  mcu: EFR32MG13P
+  mcu: EFR32MG13P732F512GM48
   config_str: Custom;TS0016;BB11u;IF2;SA3u;IA1;SF4u;IF5;SD15u;IF0;SA2u;IA0;SA5u;IF1;
   alt_config_str: null
   old_manufacturer_names: null
